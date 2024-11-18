@@ -1,0 +1,12 @@
+{
+  "name": "typescript",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "dev":"tsc app -w",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "carlos martinez",
+  "license": "ISC",
+  "description": ""
+}
