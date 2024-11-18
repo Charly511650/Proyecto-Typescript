@@ -1,2 +1,5 @@
-const nombre: string = "Carlos";
-console.log(nombre);
+// FUNCION AUTOINVOCADA
+
+(() => {
+  //Esto es una funcion auto-invocada
+})();
